@@ -4,7 +4,7 @@ TourGuide:RegisterGuide("The Lunar Festival (80+)", nil, "Alliance", function() 
 N Wall of Text |N|This guide assumes you are level 80, and/or are in a large group. You will be visiting some nasty places which may be hard to solo. Also, please make sure you start with zero [Coin of Ancestry] in your bags, follow this guide exactly and don't skip unless told to, otherwise it won't automatically update (there's no guarantee it will anyway, but you can still tick them off manually). When you are ready to begin, skip this message. Good luck, brave adventurer!|
 
 h Dalaran |N|If you are currently in Dalaran or Shattrath, make sure to set your Hearthstone there if you haven't already done so. You'll be coming back later.|
-R Ironforge |N|Use the portal|
+R City of Ironforge |N|Use the portal|
 
 A The Lunar Festival |N|From the Lunar Festival Emissary in Ironforge. Skip this and the follow-up if you already have a [Lunar Festival Invitation]| |QID|8870|
 T The Lunar Festival |QID|8870|
@@ -40,7 +40,7 @@ R Sentinel Hill
 N Skychaser the Elder |N|On top of the tower, north-east of Sentinel Hill (56,47)| |L|21100 9|
 
 F Nethergarde Keep
-N Bellowrage the Elder |N|(58,55)| |L|21100 10|
+N Bellowrage the Elder |N|North of the Dark Portal (58,55)| |L|21100 10|
 
 R Temple of Atal'Hakkar
 N Starsong the Elder |N|First left up spiral stairs, through dragonkin at top landing, stay left into main room with dragonkin| |L|21100 11|
@@ -81,14 +81,14 @@ N Wildmane the Elder |N|SE corner of the room with Gahz'rilla's gong| |L|21100 2
 R Tanaris
 N Ragetotem the Elder |N|Valley of the Watchers, west side (36,80) |L|21100 25|
 
-R Un'goro Crater
+R Un'Goro Crater
 N Thunderhorn the Elder |N|North of the Slithering Scar (51,75)| |L|21100 26|
 
 R Silithus
 N Primestone the Elder |N|Center of the Crystal Vale (23,12)| |L|21100 27|
 N Bladesing the Elder |N|Standing in the Moon Well, Cenarion Hold (50,36)| |L|21100 28|
 
-R Ironforge |N|Hearth to Dalaran/Shattrath, use the portal|
+R City Ironforge |N|Hearth to Dalaran/Shattrath, use the portal|
 
 R Kharanos
 N Goldwell the Elder |N|Near the inn (46,51)| |L|21100 29|
@@ -104,8 +104,8 @@ N Moonstrike the Elder |N|On top of the Scholomance Tower, outside of the instan
 N Meadowrun the Elder |N|North of the road, south of The Weeping Cave (66,47)| |L|21100 33|
 
 R Eastern Plaguelands
-N Windrun the Elder |N|Crown Guard Tower, north of Darrowshire| |L|21100 34|
-N Snowcrown the Elder |N|Light's Hope Chapel| |L|21100 35|
+N Windrun the Elder |N|Crown Guard Tower, north of Darrowshire (39,75)| |L|21100 34|
+N Snowcrown the Elder |N|Light's Hope Chapel (81,60)| |L|21100 35|
 
 R Stratholme
 N Farwhisper the Elder |N|North of the Festival Lane mailbox (near The Unforgiven). Enter through the back door. Make your first left in the instance, go through the gate, turn right, and the Elder will be standing at the back.| |L|21100 36|
@@ -143,7 +143,6 @@ R Astranaar
 N Riversong the Elder |N|In the gazebo near the Hippogryph Master (35,49) |L|21100 47|
 
 F Nijel's Point |N|Desolace|
-
 R Maraudon
 N Splitrock the Elder |N|Jump into the water by the Princess and Rotgrip. Swim to the east and head up the ramp. Turn right and head up a 2nd ramp. The Elder will be in front of you.| |L|21100 48|
 
