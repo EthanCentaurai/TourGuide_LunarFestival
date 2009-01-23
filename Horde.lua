@@ -3,7 +3,7 @@ TourGuide:RegisterGuide("The Lunar Festival (80+)", nil, "Horde", function() ret
 
 N Wall of Text |N|This guide assumes you are level 80, and/or are in a large group. You will be visiting some nasty places which may be hard to solo. Also, please make sure you start with zero [Coin of Ancestry] in your bags, follow this guide exactly and don't skip unless told to, otherwise it won't automatically update (there's no guarantee it will anyway, but you can still tick them off manually). When you are ready to begin, skip this message. Good luck, brave adventurer!|
 
-h Dalaran |N|If you are currently in Dalaran or Shattrath, make sure to set your Hearthstone there if you haven't already done so. You'll be coming back later.|
+h Dalaran |N|If you are currently in Dalaran, make sure to set your Hearthstone there if you haven't already done so. You'll be coming back later.|
 R Orgrimmar |N|Use the portal|
 
 F Azshara
@@ -27,7 +27,7 @@ b Darnassus
 N Bladeswift the Elder |N|Center of the Cenarion Enclave (33,14)| |L|21100 7|
 N Bladeleaf the Elder |N|Southern edge of Dolanaar (57,60)| |L|21100 8|
 
-R Orgrimmar |N|Hearth to Shattrath/Dalaran, then take the portal|
+R Orgrimmar |N|Hearth to Dalaran, take the portal|
 N Darkhorn the Elder |N|Outside Thrall's chamber, Valley of Wisdom (41,33)| |L|21100 9|
 
 R Razor Hill
@@ -76,7 +76,7 @@ R Silithus
 N Primestone the Elder |N|Center of the Crystal Vale (23,12)| |L|21100 25|
 N Bladesing the Elder |N|Standing in the Moon Well, Cenarion Hold (50,36)| |L|21100 26|
 
-R Undercity |N|Hearth to Shattrath/Dalaran, then take the portal|
+R Undercity |N|Hearth to Dalaran, take the portal|
 N Darkcore the Elder |N|In the middle of Undercity, above ground (67,38)| |L|21100 27|
 
 F Light's Hope Chapel
@@ -144,7 +144,61 @@ N Stonefort the Elder |N|At the first of the rope bridges| |L|21100 49|
 R Blackrock Depths
 N Morndeep the Elder |N|Inside the Ring of Law| |L|21100 50|
 
-N To Be Continued... |N|There are Elders in Northrend aswell, but we don't know where they are. Please feel free to contribute data!|
+N Northrend |N|The data for the Elders of Northrend is incomplete. You will have to find some of them, especially in dungeons, on your own.|
+
+H Dalaran
+R Storm Peaks
+N Elder Fargal |N|in the Frosthold (30,74)| |L|21100 51|
+N Elder Graymane |N|in K3 (41,84)| |L|21100 52|
+N Elder Stonebeard |N|in Bouldercrag's Refuge (32,35)| |L|21100 53|
+
+R Halls of Stone
+N Elder Yurauk |L|21100 54|
+
+R Zul'Drak
+N Elder Tauros |N|in Zim'Torga (59, 57)| |L|21100 55|
+
+R Gundrak
+N Elder Ohanzee |L|21100 56|
+
+R Grizzly Hills
+N Elder Lunaro |N|in the Ruins of Tethys (78,35)| |L|21100 57|
+N Elder Beldak |N|Westfall Brigade Encampment (59,26)| |L|21100 58|
+N Elder Whurain |N|Camp Oneqwah (65,46)| |L|21100 59|
+
+R Drak'Tharon Keep
+N Elder Kilias |L|21100 60|
+
+R Dragonblight
+N Elder Thoim |N|in Moa'ki Harbor (49,75)| |L|21100 61|
+N Elder Skywarden |N|in Agmar's Hammer (37,48)| |L|21100 62|
+N Elder Morthi |N|in Star's Rest (29,55)| |L|21100 63|
+N Elder Muraco |N|in Camp Taunka'lo (14,48)| |L|21100 64|
+
+R Azjol-Nerub
+N Elder Nurgen |L|21100 65|
+
+R Wintergrasp
+N Elder Bluehoof |N|in Wintergrasp Keep? Unclear (50,50)| |L|21100 66|
+
+R Borean Tundra
+N Elder Arp |N|in the D.E.H.T.A. camp (57,44)| |L|21100 67|
+N Elder Sardis |N|in Valiance Keep (58,69)| |L|21100 68|
+N Elder Pamuya |N|in Warsong Hold (42,55)| |L|21100 69|
+N Elder Northal |N|in Transistus Shield (33,35)| |L|21100 70|
+
+R The Nexus
+N Elder Igasho |L|21100 71|
+
+R Sholazar Basin
+N Elder Sandrine |N|in Lakeside Landing (50,62)| |L|21100 72|
+N Elder Wanikaya |N|in Rainspeaker Rapids (63,51)| |L|21100 73|
+
+R Utgarde Keep
+N Elder Jarten |L|21100 74|
+
+R Utgarde Pinnacle
+N Elder Chogan'gada |L|21100 75|
 
 ]] end)
 
