@@ -156,7 +156,7 @@ R The Storm Peaks
 T Fargal the Elder |N|In Frosthold (28.9,73.7)| |Z|The Storm Peaks|
 T Graymane the Elder |N|In K3 (41.2,84.7)| |Z|The Storm Peaks|
 T Stonebeard the Elder |N|In Bouldercrag's Refuge (31.3,37.6)| |Z|The Storm Peaks|
-T Muraco the Elder |N|in Camp Taunka'lo (64.6,51.3)| |Z|The Storm Peaks|
+T Muraco the Elder |N|in Camp Tunka'lo (64.6,51.3)| |Z|The Storm Peaks|
 
 R Halls of Stone
 T Yurauk the Elder
@@ -184,7 +184,7 @@ R Azjol-Nerub
 T Nurgen the Elder
 
 R Lake Wintergrasp
-T Bluewolf the Elder |N|in Wintergrasp (49,14)| |Z|Wintergrasp|
+T Bluewolf the Elder |N|in Lake Wintergrasp. Your faction needs to control Lake Wintergrasp in order to visit Elder Bluewolf. (49,14)| |Z|Wintergrasp|
 
 R Borean Tundra
 T Arp the Elder |N|in the D.E.H.T.A. camp (57.3,43.7)| |Z|Borean Tundra|
