@@ -17,7 +17,7 @@ A Valadar Starsong
 
 T Bronzebeard the Elder |N|In the Mystic Ward (29,16) |Z|Ironforge|
 
-F Thorium Point
+F Searing Gorge
 T Ironband the Elder |N|Southwest corner in Blackchar Cave (21,79)| |Z|Searing Gorge|
 
 R Lower Blackrock Spire
@@ -33,29 +33,29 @@ T Rumblerock the Elder |N|On top of Dreadmaul Rock, north of Morgan's Vigil (82,
 R Stormwind City
 T Hammershout the Elder |N|Standing in the Moon Well, Park District (36,66)| |Z|Stormwind|
 
-R Goldshire
+R Elwynn Forest
 T Stormbrow the Elder |N|Near the pond (40,63)| |Z|Elwynn Forest|
 
-R Sentinel Hill
+R Westfall
 T Skychaser the Elder |N|On top of the tower, north-east of Sentinel Hill (56,47)| |Z|Westfall|
 
-F Nethergarde Keep
+F Blasted Lands
 T Bellowrage the Elder |N|North of the Dark Portal (58,55)| |Z|Blasted Lands|
 
 R Temple of Atal'Hakkar
 T Starsong the Elder |N|First left up spiral stairs, through dragonkin at top landing, stay left into main room with dragonkin|
 
-F Rebel Camp
-T Starglade the Elder |N|Near Zul'Gurub, in the right "courtyard" in front of the steps up to instance entrance (53.18)| |Z|Stranglethorn Vale|
+F Stranglethorn Vale |N|Rebel Camp, preferably|
+T Starglade the Elder |N|Near Zul'Gurub, in the right "courtyard" in front of the steps up to instance entrance (53,18)| |Z|Stranglethorn Vale|
 T Winterhoof the Elder |N|Near Horde flight master on top of the bank (26,76)| |Z|Stranglethorn Vale|
 
-b Ratchet
+b The Barrens
 T Windtotem the Elder |N|In Ratchet, outside of the Engineering building north of the bank (62,37)| |Z|The Barrens|
 
 R Orgrimmar |N|Yes, Alliance need to go to Horde cities. Luckily for you, Orgrimmar is the largest Horde city. And just like in Ironforge, the most crowded places is the bank, the mailbox and the auction house. Orgrimmar has two entrances. One in the south, and one in the west. You would like to enter the western entrance, since this is the entrance with the least players, however you still have to outrun guards!|
 T Darkhorn the Elder |N|Outside Thrall's chamber, Valley of Wisdom (41,33)| |Z|Orgrimmar|
 
-R Razor Hill
+R Durotar
 T Runetotem the Elder |N|SE edge of Razor Hill (54,44)| |Z|Durotar|
 
 R The Barrens
@@ -92,10 +92,10 @@ R City of Ironforge |N|Hearth to Dalaran, use the portal|
 R Kharanos
 T Goldwell the Elder |N|Near the inn (46,51)| |Z|Dun Morogh|
 
-R Thelsamar
+R Loch Modan
 T Silvervein the Elder |N|(33,46)| |Z|Loch Modan|
 
-F Aerie Peak
+F The Hinterlands
 T Highpeak the Elder |N|Near the Creeping Ruin (49,48)| |Z|The Hinterlands|
 
 R Western Plaguelands
@@ -121,11 +121,11 @@ T Obsidian the Elder |N|Near to The Sepulcher (45,41)| |Z|Silverpine Forest|
 U Lunar Festival Invitation |N|This will port you to Moonglade| |U|21711|
 T Valadar Starsong |N|(54,35)| |QID|8883| |Z|Moonglade|
 
-F Everlook
+F Winterspring
 T Stonespire the Elder |N|In the center of Everlook (61,37)| |Z|Winterspring|
 T Brightspear the Elder |N|Southeastern edge of Lake Kel'Theril (55,43)| |Z|Winterspring|
 
-F Emerald Sanctuary |N|Felwood|
+F Felwood
 T Nightwind the Elder |N|North of Jaedenar (37,52)| |Z|Felwood|
 
 F Azshara
@@ -135,13 +135,13 @@ R Darnassus |N|Hearth to Dalaran, use the portal|
 T Bladeswift the Elder |N|Center of the Cenarion Enclave (33,14)| |Z|Darnassus|
 T Bladeleaf the Elder |N|Southern edge of Dolanaar (57,60)| |Z|Teldrassil|
 
-F Darkshore
+F Duskwood
 T Starweave the Elder |N|Near the Hippogryph Master (36,46)| |Z|Duskwood|
 
-R Astranaar
+R Ashenvale
 T Riversong the Elder |N|In the gazebo near the Hippogryph Master (35,49)| |Z|Ashenvale|
 
-F Nijel's Point |N|Desolace|
+F Desolace
 R Maraudon
 T Splitrock the Elder |N|Jump into the water by the Princess and Rotgrip. Swim to the east and head up the ramp. Turn right and head up a 2nd ramp. The Elder will be in front of you.|
 

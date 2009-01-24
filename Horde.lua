@@ -9,19 +9,18 @@ R Orgrimmar |N|Use the portal|
 F Azshara
 T Skygleam the Elder |N|Ravencrest Monument, south-east (72,85)| |Z|Azshara|
 
-F Everlook
+F Winterspring
 T Stonespire the Elder |N|In the center of Everlook (61,37)| |Z|Winterspring|
 T Brightspear the Elder |N|Southeastern edge of Lake Kel'Theril (55,43)| |Z|Winterspring|
 
-F Bloodvenom Post
+F Felwood
 T Nightwind the Elder |N|North of Jaedenar (37,52)| |Z|Felwood|
 
-F Emerald Sanctuary
-R Astranaar
+R Astranaar |N|Fly to Emerald Sanctuary to save some time, if you like|
 T Riversong the Elder |N|In the gazebo near the Hippogryph Master (35,49)| |Z|Ashenvale|
 
 F Darkshore
-T Starweave the Elder |N|Near the Hippogryph Master (36,46)| |Z|Duskwood|
+T Starweave the Elder |N|Near the Hippogryph Master (36,46)| |Z|Darkshore|
 
 b Darnassus
 T Bladeswift the Elder |N|Center of the Cenarion Enclave (33,14)| |Z|Darnassus|
@@ -30,10 +29,10 @@ T Bladeleaf the Elder |N|Southern edge of Dolanaar (57,60)| |Z|Teldrassil|
 R Orgrimmar |N|Hearth to Dalaran, take the portal|
 T Darkhorn the Elder |N|Outside Thrall's chamber, Valley of Wisdom (41,33)| |Z|Orgrimmar|
 
-R Razor Hill
+R Durotar
 T Runetotem the Elder |N|SE edge of Razor Hill (54,44)| |Z|Durotar|
 
-R Ratchet
+R The Barrens
 T Windtotem the Elder |N|In Ratchet, outside of the Engineering building north of the bank (62,37)| |Z|The Barrens|
 T Moonwarden the Elder |N|Next to the flight master in the Crossroads (51,28)| |Z|The Barrens|
 T High Mountain the Elder |N|NE edge of Camp Taurajo, next to the forge (45,58)| |Z|The Barrens|
@@ -44,15 +43,15 @@ T Bloodhoof the Elder |N|North of Bloodhoof Village, next to the bridge (48,53)|
 R Thunder Bluff
 T Proudhorn the Elder |N|Elder Rise (72,23)| |Z|Thunder Bluff|
 
-F Shadowprey Village
+F Desolace
 R Maraudon
 T Splitrock the Elder |N|Jump into the water by the Princess and Rotgrip. Swim to the east and head up the ramp. Turn right and head up a 2nd ramp. The Elder will be in front of you.|
 
-F Camp Mojache
+F Feralas
 T Grimtotem the Elder |N|Lariss Pavilion, northeast of Camp Mojache (76,37)| |Z|Feralas|
 T Mistwalker the Elder |N|Inside the Dire Maul arena, outside the instance (62,31)| |Z|Feralas|
 
-F Freewind Post
+F Thousand Needles
 T Skyseer the Elder |N|Middle of Freewind Post (45,50)| |Z|Thousand Needles|
 T Morningdew the Elder |N|Mirage Raceway, near the starting line (79,77)| |Z|Thousand Needles|
 
@@ -75,7 +74,7 @@ T Bladesing the Elder |N|Standing in the Moon Well, Cenarion Hold (50,36)| |Z|Si
 R Undercity |N|Hearth to Dalaran, take the portal|
 T Darkcore the Elder |N|In the middle of Undercity, above ground (67,38)| |Z|Undercity|
 
-F Light's Hope Chapel
+F Eastern Plaguelands
 T Snowcrown the Elder |N|Light's Hope Chapel (81,60)| |Z|Eastern Plaguelands|
 T Windrun the Elder |N|Crown Guard Tower, north of Darrowshire (39,75)| |Z|Eastern Plaguelands|
 
@@ -89,13 +88,13 @@ T Moonstrike the Elder |N|On top of the Scholomance Tower, outside of the instan
 R Tirisfal Glades
 T Graveborn the Elder |N|Just south of Brill (61,53)| |Z|Tirisfal Glades|
 
-F The Sepulcher
+F Silverpine Forest
 T Obsidian the Elder |N|Near to The Sepulcher (45,41)| |Z|Silverpine Forest|
 
-F Revantusk Village
+F The Hinterlands
 T Highpeak the Elder |N|Near the Creeping Ruin (49,48)| |Z|The Hinterlands|
 
-F Kargath
+F Badlands
 R Loch Modan
 T Silvervein the Elder |N|(33,46)| |Z|Loch Modan|
 
@@ -120,18 +119,18 @@ T Starglade the Elder |N|Near Zul'Gurub, in the right "courtyard" in front of th
 F Booty Bay |N|Or just run there|
 T Winterhoof the Elder |N|Near Horde flight master on top of the bank (26,76)| |Z|Stranglethorn Vale|
 
-F Stonard
+F Swamp of Sorrows
 R Temple of Atal'Hakkar
 T Starsong the Elder |N|First left up spiral stairs, through dragonkin at top landing, stay left into main room with dragonkin|
 
 R Blasted Lands
 T Bellowrage the Elder |N|North of the Dark Portal (58,55)| |Z|Blasted Lands|
 
-F Flame Crest
+F Burning Steppes
 T Dawnstrider the Elder |N|Up at Flame Crest, that cave with the Libram guy (64,24)| |Z|Burning Steppes|
 T Rumblerock the Elder |N|On top of Dreadmaul Rock, north of Morgan's Vigil (82,46)| |Z|Burning Steppes|
 
-F Thorium Point
+F Searing Gorge
 T Ironband the Elder |N|Southwest corner in Blackchar Cave (21,79)| |Z|Searing Gorge|
 
 R Lower Blackrock Spire
