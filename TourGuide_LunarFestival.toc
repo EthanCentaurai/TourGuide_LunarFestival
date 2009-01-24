@@ -11,6 +11,8 @@
 ## LoadManagers: AddonLoader
 ## X-LoadOn-Always: delayed
 
+Core.lua
+
 Alliance.lua
 Horde.lua
 
