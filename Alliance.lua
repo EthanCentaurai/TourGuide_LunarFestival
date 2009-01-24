@@ -31,7 +31,7 @@ T Dawnstrider the Elder |N|Up at Flame Crest, that cave with the Libram guy (64,
 T Rumblerock the Elder |N|On top of Dreadmaul Rock, north of Morgan's Vigil (82,46)| |Z|Burning Steppes|
 
 R Stormwind City
-T Hammershout the Elder |N|Standing in the Moon Well, Park District| |Z|Stormwind|
+T Hammershout the Elder |N|Standing in the Moon Well, Park District (36,66)| |Z|Stormwind|
 
 R Goldshire
 T Stormbrow the Elder |N|Near the pond (40,63)| |Z|Elwynn Forest|

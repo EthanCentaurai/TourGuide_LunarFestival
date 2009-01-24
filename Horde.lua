@@ -110,7 +110,7 @@ R City of Ironforge
 T Bronzebeard the Elder |N|In the Mystic Ward (29,16)|
 
 R Stormwind City |N|Use the Deeprun Tram if you can|
-T Hammershout the Elder |N|Standing in the Moon Well, Park District|
+T Hammershout the Elder |N|Standing in the Moon Well, Park District (36,66)|
 
 R Elwynn Forest
 T Stormbrow the Elder |N|Near the pond (40,63)|
