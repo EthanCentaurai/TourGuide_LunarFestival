@@ -4,10 +4,7 @@
 ## Author: Ethan Centaurai
 ## Version: @project-version@
 ## X-Category: Quest
-
 ## RequiredDeps: TourGuide
-## DefaultState: disabled
-
 ## LoadManagers: AddonLoader
 ## X-LoadOn-Always: delayed
 
