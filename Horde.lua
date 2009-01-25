@@ -68,8 +68,8 @@ R Un'Goro Crater
 T Thunderhorn the Elder |N|North of the Slithering Scar (50.1,76.1)| |Z|Un'Goro Crater|
 
 R Silithus
-T Primestone the Elder |N|Center of the Crystal Vale (22.9,11.6)| |Z|Silithus|
 T Bladesing the Elder |N|Standing in the Moon Well, Cenarion Hold (48.8,37.6)| |Z|Silithus|
+T Primestone the Elder |N|Center of the Crystal Vale (22.9,11.6)| |Z|Silithus|
 
 R Undercity |N|Hearth to Dalaran, take the portal|
 T Darkcore the Elder |N|In the middle of Undercity, above ground (67.4,39.1)| |Z|Undercity|
