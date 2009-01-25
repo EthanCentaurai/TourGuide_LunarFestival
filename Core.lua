@@ -7,8 +7,9 @@ F:SetScript("OnEvent", function(self, event, msg)
 	if action == "TURNIN" then
 		local _, _, text = msg:find("^(.-) completed%.$")
 
-		if text and quest == text then
-			return TourGuide:SetTurnedIn(text, true, false)
+		if type(text) == 'string' and quest == text then
+			TourGuide:CompleteQuest(text)
+			TourGuide:UpdateStatusFrame()
 		end
 	end
 end)
