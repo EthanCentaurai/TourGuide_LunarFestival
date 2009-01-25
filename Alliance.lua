@@ -112,13 +112,13 @@ T Farwhisper the Elder |N|North of the Festival Lane mailbox (near The Unforgive
 R Tirisfal Glades
 T Graveborn the Elder |N|Just south of Brill (61.7,53.7)| |Z|Tirisfal Glades|
 
-R Undercity
-T Darkcore the Elder |N|In the middle of Undercity, above ground (67.4,39.1)| |Z|Undercity|
-
 R Silverpine Forest
 T Obsidian the Elder |N|Near to The Sepulcher (44.8,41.1)| |Z|Silverpine Forest|
 
-U Lunar Festival Invitation |N|This will port you to Moonglade| |U|21711|
+R Undercity
+T Darkcore the Elder |N|In the middle of Undercity, above ground (67.4,39.1)| |Z|Undercity|
+
+R Moonglade |N|Stand in the big beam of light in the middle of the Throne Room and use your Lunar Invitation. This will port you to Moonglade.| |U|21711|
 T Valadar Starsong |N|(54,35)| |QID|8883| |Z|Moonglade|
 
 F Winterspring
