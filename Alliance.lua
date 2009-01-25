@@ -118,7 +118,7 @@ T Obsidian the Elder |N|Near to The Sepulcher (44.8,41.1)| |Z|Silverpine Forest|
 R Undercity
 T Darkcore the Elder |N|In the middle of Undercity, above ground (67.4,39.1)| |Z|Undercity|
 
-R Moonglade |N|Stand in the big beam of light in the middle of the Throne Room and use your Lunar Invitation. This will port you to Moonglade.| |U|21711|
+R Moonglade |N|Stand in the big beam of light in the middle of the Throne Room and use your Lunar Invitation. Or use your Teleport spell if you are a Druid. Either way will port you to Moonglade.| |U|21711|
 T Valadar Starsong |N|(54,35)| |QID|8883| |Z|Moonglade|
 
 F Winterspring
