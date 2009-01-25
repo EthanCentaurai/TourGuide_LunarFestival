@@ -108,7 +108,7 @@ R Stormwind City |N|Use the Deeprun Tram if you can|
 T Hammershout the Elder |N|Standing in the Moon Well, Park District (36,66)| |Z|Stormwind City|
 
 R Elwynn Forest
-T Stormbrow the Elder |N|Near the pond (39.6,63.5)| |Z|Elywnn Forest|
+T Stormbrow the Elder |N|Near the pond (39.6,63.5)| |Z|Elwynn Forest|
 
 R Westfall
 T Skychaser the Elder |N|On top of the tower, north-east of Sentinel Hill (56.6,47)| |Z|Westfall|
