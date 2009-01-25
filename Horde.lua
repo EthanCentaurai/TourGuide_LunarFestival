@@ -41,7 +41,7 @@ R Mulgore
 T Bloodhoof the Elder |N|North of Bloodhoof Village, next to the bridge (48.3,53.4)| |Z|Mulgore|
 
 R Thunder Bluff
-T Proudhorn the Elder |N|Elder Rise (72.2,23.5)| |Z|Thunder Bluff|
+T Wheathoof the Elder |N|Elder Rise (72.2,23.5). In memoriam, Ezra Chatterton (1998-2008).| |Z|Thunder Bluff|
 
 F Desolace
 R Maraudon

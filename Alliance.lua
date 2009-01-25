@@ -66,7 +66,7 @@ R Mulgore
 T Bloodhoof the Elder |N|North of Bloodhoof Village, next to the bridge (48.3,53.4)| |Z|Mulgore|
 
 R Thunder Bluff |N|Unlike Orgrimmar, Thunder Bluff is not a very big city, therefore you are much more likely to meet enemy players. However, Thunder Bluff is just as popular city as Darnassus is, and therefore you have great chances of not being outnumbered. Enter via the North Lift|
-T Proudhorn the Elder |N|Elder Rise (72.2,23.5)| |Z|Thunder Bluff|
+T Wheathoof the Elder |N|Elder Rise (72.2,23.5). In memoriam, Ezra Chatterton (1998-2008).| |Z|Thunder Bluff|
 
 R Thousand Needles
 T Skyseer the Elder |N|Middle of Freewind Post (45.3,49.3)| |Z|Thousand Needles|
@@ -159,7 +159,7 @@ T Stonebeard the Elder |N|In Bouldercrag's Refuge (31.3,37.6)| |Z|The Storm Peak
 T Muraco the Elder |N|in Camp Tunka'lo (64.6,51.3)| |Z|The Storm Peaks|
 
 R Halls of Stone
-T Yurauk the Elder
+T Yurauk the Elder |N|On the right as you go in|
 
 R Zul'Drak
 T Tauros the Elder |N|In Zim'Torga (58.9,56)| |Z|Zul'Drak|
