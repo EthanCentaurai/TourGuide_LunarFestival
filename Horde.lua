@@ -76,10 +76,12 @@ T Darkcore the Elder |N|In the middle of Undercity, above ground (67.4,39.1)| |Z
 
 F Eastern Plaguelands
 T Snowcrown the Elder |N|Light's Hope Chapel (75.7,54.6)| |Z|Eastern Plaguelands|
-T Windrun the Elder |N|Crown Guard Tower, north of Darrowshire (35.6,68.8)| |Z|Eastern Plaguelands|
 
 R Stratholme
 T Farwhisper the Elder |N|North of the Festival Lane mailbox (near The Unforgiven). Enter through the back door. Make your first left in the instance, go through the gate, turn right, and the Elder will be standing at the back.|
+
+R Eastern Plaguelands
+T Windrun the Elder |N|Crown Guard Tower, north of Darrowshire (35.6,68.8)| |Z|Eastern Plaguelands|
 
 R Western Plaguelands
 T Meadowrun the Elder |N|North of the road, south of The Weeping Cave (65.8,47.7)| |Z|Western Plaguelands|
@@ -99,7 +101,7 @@ R Loch Modan
 T Silvervein the Elder |N|(33,46.3)| |Z|Loch Modan|
 
 R Dun Morogh
-T Goldwell the Elder |N|Near the inn (46.7,51.4)| |Z|Dun Morogh|
+T Goldwell the Elder |N|Near the Kharanos inn (46.7,51.4)| |Z|Dun Morogh|
 
 R City of Ironforge
 T Bronzebeard the Elder |N|In the Mystic Ward (28.1,17)| |Z|Ironforge|
@@ -118,7 +120,7 @@ T Starglade the Elder |N|Near Zul'Gurub, in the right "courtyard" in front of th
 T Winterhoof the Elder |N|Near Horde flight master on top of the bank in Booty Bay (26.3,76.4)| |Z|Stranglethorn Vale|
 
 F Swamp of Sorrows
-R The Temple of Atal'Hakkar
+R Temple of Atal'Hakkar
 T Starsong the Elder |N|First left up spiral stairs, through dragonkin at top landing, stay left into main room with dragonkin|
 
 R Blasted Lands

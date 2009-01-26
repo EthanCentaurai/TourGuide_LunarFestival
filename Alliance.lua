@@ -42,7 +42,7 @@ T Skychaser the Elder |N|On top of the tower, north-east of Sentinel Hill (56.6,
 F Blasted Lands
 T Bellowrage the Elder |N|North of the Dark Portal (57.7,54.7)| |Z|Blasted Lands|
 
-R The Temple of Atal'Hakkar
+R Temple of Atal'Hakkar
 T Starsong the Elder |N|First left up spiral stairs, through dragonkin at top landing, stay left into main room with dragonkin|
 
 F Stranglethorn Vale |N|Rebel Camp, preferably|
@@ -89,8 +89,8 @@ T Bladesing the Elder |N|Standing in the Moon Well, Cenarion Hold (48.8,37.6)| |
 T Primestone the Elder |N|Center of the Crystal Vale (22.9,11.6)| |Z|Silithus|
 
 R City of Ironforge |N|Hearth to Dalaran, use the portal|
-R Kharanos
-T Goldwell the Elder |N|Near the inn (46.7,51.4)| |Z|Dun Morogh|
+R Dun Morogh
+T Goldwell the Elder |N|Near the Kharanos inn (46.7,51.4)| |Z|Dun Morogh|
 
 R Loch Modan
 T Silvervein the Elder |N|(33,46.3)| |Z|Loch Modan|
