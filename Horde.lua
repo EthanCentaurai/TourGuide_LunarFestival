@@ -118,7 +118,7 @@ T Starglade the Elder |N|Near Zul'Gurub, in the right "courtyard" in front of th
 T Winterhoof the Elder |N|Near Horde flight master on top of the bank in Booty Bay (26.3,76.4)| |Z|Stranglethorn Vale|
 
 F Swamp of Sorrows
-R Temple of Atal'Hakkar
+R The Temple of Atal'Hakkar
 T Starsong the Elder |N|First left up spiral stairs, through dragonkin at top landing, stay left into main room with dragonkin|
 
 R Blasted Lands

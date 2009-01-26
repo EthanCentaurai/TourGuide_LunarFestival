@@ -42,7 +42,7 @@ T Skychaser the Elder |N|On top of the tower, north-east of Sentinel Hill (56.6,
 F Blasted Lands
 T Bellowrage the Elder |N|North of the Dark Portal (57.7,54.7)| |Z|Blasted Lands|
 
-R Temple of Atal'Hakkar
+R The Temple of Atal'Hakkar
 T Starsong the Elder |N|First left up spiral stairs, through dragonkin at top landing, stay left into main room with dragonkin|
 
 F Stranglethorn Vale |N|Rebel Camp, preferably|
