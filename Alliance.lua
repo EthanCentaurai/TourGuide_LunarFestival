@@ -42,7 +42,7 @@ T Skychaser the Elder |N|On top of the tower, north-east of Sentinel Hill (56.6,
 F Blasted Lands
 T Bellowrage the Elder |N|North of the Dark Portal (57.7,54.7)| |Z|Blasted Lands|
 
-R Temple of Atal'Hakkar
+R The Temple of Atal'Hakkar
 T Starsong the Elder |N|First left up spiral stairs, through dragonkin at top landing, stay left into main room with dragonkin|
 
 F Stranglethorn Vale |N|Rebel Camp, preferably|
@@ -164,8 +164,8 @@ T Yurauk the Elder |N|On the right as you go in|
 R Zul'Drak
 T Tauros the Elder |N|In Zim'Torga (58.9,56)| |Z|Zul'Drak|
 
-R Gundrak
-T Ohanzee the Elder
+R Gundrak |N|The elder will only appear in Heroic Mode, and requires you to defeat Moorabi along the way|
+T Ohanzee the Elder |N|The elder will only appear in Heroic Mode, and requires you to defeat Moorabi along the way|
 
 R Grizzly Hills
 T Lunaro the Elder |N|In the Ruins of Tethys (80.5,37.6)| |Z|Grizzly Hills|

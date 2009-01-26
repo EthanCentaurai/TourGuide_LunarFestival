@@ -120,7 +120,7 @@ T Starglade the Elder |N|Near Zul'Gurub, in the right "courtyard" in front of th
 T Winterhoof the Elder |N|Near Horde flight master on top of the bank in Booty Bay (26.3,76.4)| |Z|Stranglethorn Vale|
 
 F Swamp of Sorrows
-R Temple of Atal'Hakkar
+R The Temple of Atal'Hakkar
 T Starsong the Elder |N|First left up spiral stairs, through dragonkin at top landing, stay left into main room with dragonkin|
 
 R Blasted Lands
@@ -154,8 +154,8 @@ T Yurauk the Elder
 R Zul'Drak
 T Tauros the Elder |N|In Zim'Torga (58.9,56)| |Z|Zul'Drak|
 
-R Gundrak
-T Ohanzee the Elder
+R Gundrak |N|The elder will only appear in Heroic Mode, and requires you to defeat Moorabi along the way|
+T Ohanzee the Elder |N|The elder will only appear in Heroic Mode, and requires you to defeat Moorabi along the way|
 
 R Grizzly Hills
 T Lunaro the Elder |N|In the Ruins of Tethys (80.5,37.6)| |Z|Grizzly Hills|
