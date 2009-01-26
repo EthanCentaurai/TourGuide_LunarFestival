@@ -20,8 +20,8 @@ T Bronzebeard the Elder |N|In the Mystic Ward (28.1,17) |Z|Ironforge|
 F Searing Gorge
 T Ironband the Elder |N|Southwest corner in Blackchar Cave (21,79)| |Z|Searing Gorge|
 
-R Lower Blackrock Spire
-T Stonefort the Elder |N|At the first of the rope bridges|
+R Blackrock Spire
+T Stonefort the Elder |N|At the first of the rope bridges in Lower Blackrock Spire|
 
 R Blackrock Depths
 T Morndeep the Elder |N|Inside the Ring of Law|

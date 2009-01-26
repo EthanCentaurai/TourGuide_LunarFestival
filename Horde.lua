@@ -133,8 +133,8 @@ T Rumblerock the Elder |N|On top of Dreadmaul Rock, north of Morgan's Vigil (81.
 F Searing Gorge
 T Ironband the Elder |N|Southwest corner in Blackchar Cave (21.1,78.8)| |Z|Searing Gorge|
 
-R Lower Blackrock Spire
-T Stonefort the Elder |N|At the first of the rope bridges|
+R Blackrock Spire
+T Stonefort the Elder |N|At the first of the rope bridges in Lower Blackrock Spire|
 
 R Blackrock Depths
 T Morndeep the Elder |N|Inside the Ring of Law|
