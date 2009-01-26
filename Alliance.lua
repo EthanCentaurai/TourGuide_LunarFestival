@@ -158,33 +158,18 @@ T Graymane the Elder |N|In K3 (41.2,84.7)| |Z|The Storm Peaks|
 T Stonebeard the Elder |N|In Bouldercrag's Refuge (31.3,37.6)| |Z|The Storm Peaks|
 T Muraco the Elder |N|in Camp Tunka'lo (64.6,51.3)| |Z|The Storm Peaks|
 
-R Halls of Stone
-T Yurauk the Elder |N|On the right as you go in|
-
 R Zul'Drak
 T Tauros the Elder |N|In Zim'Torga (58.9,56)| |Z|Zul'Drak|
-
-R Gundrak |N|The elder will only appear in Heroic Mode, and requires you to defeat Moorabi along the way|
-T Ohanzee the Elder |N|The elder will only appear in Heroic Mode, and requires you to defeat Moorabi along the way|
 
 R Grizzly Hills
 T Lunaro the Elder |N|In the Ruins of Tethys (80.5,37.6)| |Z|Grizzly Hills|
 T Beldak the Elder |N|Westfall Brigade Encampment (60.6,27.7)| |Z|Grizzly Hills|
 T Whurain the Elder |N|Camp Oneqwah (64.2,47)| |Z|Grizzly Hills|
 
-R Drak'Tharon Keep
-T Kilias the Elder
-
 R Dragonblight
 T Thoim the Elder |N|in Moa'ki Harbor (48.8,78.2)| |Z|Dragonblight|
 T Skywarden the Elder |N|in Agmar's Hammer (35.1,48.3)| |Z|Dragonblight|
 T Morthie the Elder |N|in Star's Rest (29.7,55.9)| |Z|Dragonblight|
-
-R Azjol-Nerub
-T Nurgen the Elder
-
-R Lake Wintergrasp
-T Bluewolf the Elder |N|in Lake Wintergrasp. Your faction needs to control Lake Wintergrasp in order to visit Elder Bluewolf. (49,14)| |Z|Wintergrasp|
 
 R Borean Tundra
 T Arp the Elder |N|in the D.E.H.T.A. camp (57.3,43.7)| |Z|Borean Tundra|
@@ -192,18 +177,33 @@ T Sardis the Elder |N|in Valiance Keep (59.1,65.6)| |Z|Borean Tundra|
 T Pamuya the Elder |N|in Warsong Hold (42.9,49.6)| |Z|Borean Tundra|
 T Northal the Elder |N|in Transistus Shield (33.8,34.4)| |Z|Borean Tundra|
 
-R The Nexus
-T Igasho the Elder
-
 R Sholazar Basin
 T Sandrene the Elder |N|in Lakeside Landing (49.8,63)| |Z|Sholazar Basin|
 T Wanikaya the Elder |N|in Rainspeaker Rapids (63.8,49)| |Z|Sholazar Basin|
 
+R Wintergrasp
+T Bluewolf the Elder |N|Your faction needs to control Lake Wintergrasp in order to visit Elder Bluewolf. (49,14)| |Z|Wintergrasp|
+
+R The Nexus
+T Igasho the Elder
+
+R Halls of Stone
+T Yurauk the Elder |N|On the right as you go in|
+
 R Utgarde Keep
 T Jarten the Elder
 
+R Azjol-Nerub
+T Nurgen the Elder
+
+R Drak'Tharon Keep
+T Kilias the Elder
+
 R Utgarde Pinnacle
 T Chogan'gada the Elder
+
+R Gundrak |N|The elder will only appear in Heroic Mode, and requires you to defeat Moorabi along the way|
+T Ohanzee the Elder |N|The elder will only appear in Heroic Mode, and requires you to defeat Moorabi along the way|
 
 ]] end)
 
