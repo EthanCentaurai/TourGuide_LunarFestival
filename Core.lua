@@ -1,4 +1,4 @@
-
+﻿
 local F = CreateFrame("Frame")
 F:Hide()
 F:SetScript("OnEvent", function(self, event, msg)
@@ -15,4 +15,3 @@ F:SetScript("OnEvent", function(self, event, msg)
 end)
 
 F:RegisterEvent("CHAT_MSG_SYSTEM")
-

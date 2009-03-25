@@ -1,15 +1,11 @@
-## Interface: 30000
+﻿## Interface: 30100
 ## Title: Tour Guide (The Lunar Festival)
 ## Notes: An easy-to-follow guide for visiting all of the Lunar Festival Elders.
 ## Author: Ethan Centaurai
-## Version: @project-version@
-## X-Category: Quest
+## Version: 0.6.3
 ## RequiredDeps: TourGuide
-## LoadManagers: AddonLoader
-## X-LoadOn-Always: delayed
 
 Core.lua
 
 Alliance.lua
 Horde.lua
-

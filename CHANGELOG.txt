@@ -1,3 +1,6 @@
+Version 0.6.3
+- Updated for WoW 3.1.0.
+
 Version 0.6.2
 - Fix various typos, including Lower Blackrock Spire -> Blackrock Spire and Temple of Atal'Hakkar -> The Temple of Atal'Hakkar. Thanks Arrowmaster!
 - Rearrange Northrend portion of the guide so that instances are left to last.
