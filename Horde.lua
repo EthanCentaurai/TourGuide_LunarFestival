@@ -36,18 +36,18 @@ R The Barrens
 T Windtotem the Elder |N|In Ratchet, outside of the Engineering building north of the bank (62.6,36.7)| |Z|The Barrens|
 T Moonwarden the Elder |N|Next to the flight master in the Crossroads (51.4,30.6)| |Z|The Barrens|
 
-F Camp Taurajo
-T High Mountain the Elder |N|NE edge of Camp Taurajo, next to the forge (45,57.9)| |Z|The Barrens|
+F Desolace
+R Maraudon
+T Splitrock the Elder |N|Jump into the water by the Princess and Rotgrip. Swim to the east and head up the ramp. Turn right and head up a 2nd ramp. The Elder will be in front of you.|
+
+R Thunder Bluff |N|Hearth to Dalaran, use the portal|
+T Wheathoof the Elder |N|Elder Rise (72.2,23.5). In memoriam, Ezra Chatterton (1998-2008).| |Z|Thunder Bluff|
 
 R Mulgore
 T Bloodhoof the Elder |N|North of Bloodhoof Village, next to the bridge (48.3,53.4)| |Z|Mulgore|
 
-R Thunder Bluff
-T Wheathoof the Elder |N|Elder Rise (72.2,23.5). In memoriam, Ezra Chatterton (1998-2008).| |Z|Thunder Bluff|
-
-F Desolace
-R Maraudon
-T Splitrock the Elder |N|Jump into the water by the Princess and Rotgrip. Swim to the east and head up the ramp. Turn right and head up a 2nd ramp. The Elder will be in front of you.|
+R The Barrens
+T High Mountain the Elder |N|NE edge of Camp Taurajo, next to the forge (45,57.9)| |Z|The Barrens|
 
 F Feralas
 T Grimtotem the Elder |N|Lariss Pavilion, northeast of Camp Mojache (76.7,37.7)| |Z|Feralas|

@@ -88,6 +88,10 @@ R Silithus
 T Bladesing the Elder |N|Standing in the Moon Well, Cenarion Hold (48.8,37.6)| |Z|Silithus|
 T Primestone the Elder |N|Center of the Crystal Vale (22.9,11.6)| |Z|Silithus|
 
+F Desolace
+R Maraudon
+T Splitrock the Elder |N|Jump into the water by the Princess and Rotgrip. Swim to the east and head up the ramp. Turn right and head up a 2nd ramp. The Elder will be in front of you.|
+
 R City of Ironforge |N|Hearth to Dalaran, use the portal|
 R Dun Morogh
 T Goldwell the Elder |N|Near the Kharanos inn (46.7,51.4)| |Z|Dun Morogh|
@@ -141,11 +145,7 @@ T Starweave the Elder |N|Near the Hippogryph Master in Auberdine (36.7,46.6)| |Z
 R Ashenvale
 T Riversong the Elder |N|In the gazebo near the Hippogryph Master (35.4,48.9)| |Z|Ashenvale|
 
-F Desolace
-R Maraudon
-T Splitrock the Elder |N|Jump into the water by the Princess and Rotgrip. Swim to the east and head up the ramp. Turn right and head up a 2nd ramp. The Elder will be in front of you.|
-
-R Feralas
+F Feralas
 T Mistwalker the Elder |N|Inside the Dire Maul arena, outside the instance (62,31)| |Z|Feralas|
 T Grimtotem the Elder |N|Lariss Pavilion, northeast of Camp Mojache (76.7,37.7)| |Z|Feralas|
 
