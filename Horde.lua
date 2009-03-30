@@ -35,6 +35,8 @@ T Runetotem the Elder |N|SE edge of Razor Hill (53.1,43.5)| |Z|Durotar|
 R The Barrens
 T Windtotem the Elder |N|In Ratchet, outside of the Engineering building north of the bank (62.6,36.7)| |Z|The Barrens|
 T Moonwarden the Elder |N|Next to the flight master in the Crossroads (51.4,30.6)| |Z|The Barrens|
+
+F Camp Taurajo
 T High Mountain the Elder |N|NE edge of Camp Taurajo, next to the forge (45,57.9)| |Z|The Barrens|
 
 R Mulgore
