@@ -1,4 +1,4 @@
-﻿
+
 TourGuide:RegisterGuide("The Lunar Festival (80+)", nil, "Horde", function() return [[
 
 N Wall of Text |N|This guide assumes you are level 80, and/or are in a large group. You will be visiting some nasty places which may be hard to solo. Good luck, brave adventurer!|
