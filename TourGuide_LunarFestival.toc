@@ -1,5 +1,5 @@
 ## Interface: 30100
-## Title: Tour Guide - The Lunar Festival
+## Title: Tour Guide - Lunar Festival
 ## Notes: An easy-to-follow guide for visiting all of the Lunar Festival Elders.
 ## Author: Ethan Centaurai
 ## Version: 0.6.3
