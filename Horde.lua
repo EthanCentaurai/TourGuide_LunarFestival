@@ -14,7 +14,7 @@ T Stonespire the Elder |N|In the center of Everlook. (61.3,37.7)| |Z|Wintersprin
 T Brightspear the Elder |N|Southeastern edge of Lake Kel'Theril. (55.3,43.8)| |Z|Winterspring|
 
 F Felwood |N|Fly to Bloodvenom Post.|
-T Nightwind the Elder |N|North of Jaedenar .(37.7,52.9)| |Z|Felwood|
+T Nightwind the Elder |N|North of Jaedenar. (37.7,52.9)| |Z|Felwood|
 
 R Ashenvale |N|Fly to Emerald Sanctuary to save some time, if you like.|
 T Riversong the Elder |N|In the gazebo near the Hippogryph Master. (35.4,48.9)| |Z|Ashenvale|
