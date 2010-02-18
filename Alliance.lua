@@ -125,6 +125,8 @@ T Darkcore the Elder |N|In the middle of Undercity, above ground. (67.4,39.1)| |
 R Moonglade |N|Stand in the big beam of light in the middle of the Throne Room and use your Lunar Invitation, or use your Teleport spell if you are a Druid.| |U|21711|
 T Valadar Starsong |N|(54,35)| |QID|8883| |Z|Moonglade|
 
+N Omen |N|You now have the option of summoning and defeating Omen. It's fairly simple to do; gather a group of players, launch 20 Green Rocket Clusters at Stormrage Barrow Den (65,65) and defeat the large two-headed puppy. Avoid his Starfall attacks if you can. Once he's dead, stand in the moonlight that appears.| |Z|Moonglade|
+
 F Winterspring
 T Stonespire the Elder |N|In the center of Everlook. (61.3,37.7)| |Z|Winterspring|
 T Brightspear the Elder |N|Southeastern edge of Lake Kel'Theril. (55.3,43.8)| |Z|Winterspring|

@@ -6,6 +6,20 @@ N Wall of Text |N|This guide assumes you are level 80, and/or are in a large gro
 h Dalaran |N|If you are currently in Dalaran, make sure to set your Hearthstone there if you haven't already done so. You'll be coming back later.|
 R Orgrimmar |N|Use the portal.|
 
+A The Lunar Festival |N|From the Lunar Festival Emissary in Orgrimmar. Skip this and the follow-up if you already have a [Lunar Festival Invitation]| |QID|8873|
+T The Lunar Festival |QID|8873|
+
+A Lunar Fireworks |QID|8867|
+C Lunar Fireworks |N|Buy fireworks from the nearby vendor, launch them into the sky!| |QID|8867|
+T Lunar Fireworks |QID|8867|
+
+A Valadar Starsong |QID|8883|
+
+R Moonglade |N|Stand in the big beam of light and use your Lunar Invitation, or use your Teleport spell if you are a Druid.| |U|21711|
+T Valadar Starsong |N|(54,35)| |QID|8883| |Z|Moonglade|
+
+N Omen |N|You now have the option of summoning and defeating Omen. It's fairly simple to do; gather a group of players, launch 20 Green Rocket Clusters at Stormrage Barrow Den (65,65) and defeat the large two-headed puppy. Avoid his Starfall attacks if you can. Once he's dead, stand in the moonlight that appears.| |Z|Moonglade|
+
 F Azshara
 T Skygleam the Elder |N|Ravencrest Monument, south-east. (72.4,84.9)| |Z|Azshara|
 
