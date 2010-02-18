@@ -13,7 +13,7 @@ A Lunar Fireworks |QID|8867|
 C Lunar Fireworks |N|Buy fireworks from the nearby vendor, launch them into the sky!| |QID|8867|
 T Lunar Fireworks |QID|8867|
 
-A Valadar Starsong
+A Valadar Starsong |QID|8883|
 
 T Bronzebeard the Elder |N|In the Mystic Ward. (28.1,17) |Z|Ironforge|
 
@@ -123,7 +123,7 @@ R Undercity
 T Darkcore the Elder |N|In the middle of Undercity, above ground. (67.4,39.1)| |Z|Undercity|
 
 R Moonglade |N|Stand in the big beam of light in the middle of the Throne Room and use your Lunar Invitation, or use your Teleport spell if you are a Druid.| |U|21711|
-T Valadar Starsong |N|(54,35)| |Z|Moonglade|
+T Valadar Starsong |N|(54,35)| |QID|8883| |Z|Moonglade|
 
 F Winterspring
 T Stonespire the Elder |N|In the center of Everlook. (61.3,37.7)| |Z|Winterspring|
