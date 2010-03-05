@@ -89,7 +89,7 @@ T Bladesing the Elder |N|Standing in the Moon Well, Cenarion Hold. (48.8,37.6)| 
 T Primestone the Elder |N|Center of the Crystal Vale. (22.9,11.6)| |Z|Silithus|
 
 F Desolace
-R Maraudon |N|Enter via the Purple Gate to save time, if you can.|
+R Maraudon |N|Enter via the Portal to save time if you are over level 30.|
 T Splitrock the Elder |N|Jump into the water by the Princess and Rotgrip. Swim to the east and head up the ramp. Turn right and head up a 2nd ramp. The Elder will be in front of you.|
 
 R City of Ironforge |N|Hearth to Dalaran, use the portal.|
@@ -97,7 +97,7 @@ R Dun Morogh
 T Goldwell the Elder |N|Near the Kharanos inn. (46.7,51.4)| |Z|Dun Morogh|
 
 R Loch Modan
-T Silvervein the Elder |N|(33,46.3)| |Z|Loch Modan|
+T Silvervein the Elder |N|Next to Thelsamar graveyard. (33,46.3)| |Z|Loch Modan|
 
 F The Hinterlands
 T Highpeak the Elder |N|Near the Creeping Ruin. (49.9,47.9)| |Z|The Hinterlands|
@@ -110,8 +110,8 @@ R Eastern Plaguelands
 T Windrun the Elder |N|Crown Guard Tower, north of Darrowshire. (35.6,68.8)| |Z|Eastern Plaguelands|
 T Snowcrown the Elder |N|Light's Hope Chapel. (75.7,54.6)| |Z|Eastern Plaguelands|
 
-R Stratholme
-T Farwhisper the Elder |N|North of the Festival Lane mailbox (near The Unforgiven). Enter through the back door. Make your first left in the instance, go through the gate, turn right, and the Elder will be standing at the back.|
+R Stratholme |N|Enter through the back door.|
+T Farwhisper the Elder |N|North of the Festival Lane mailbox (near The Unforgiven). Make your first left in the instance, go through the gate, turn right, and the Elder will be standing at the back.|
 
 R Tirisfal Glades
 T Graveborn the Elder |N|Just south of Brill. (61.7,53.7)| |Z|Tirisfal Glades|
@@ -142,7 +142,7 @@ T Bladeswift the Elder |N|Center of the Cenarion Enclave. (33.6,15.1)| |Z|Darnas
 T Bladeleaf the Elder |N|Southern edge of Dolanaar. (57.2,60.7)| |Z|Teldrassil|
 
 F Darkshore
-T Starweave the Elder |N|Near the Hippogryph Master in Auberdine. (36.7,46.6)| |Z|Darkshore|
+T Starweave the Elder |N|On a hill near the Hippogryph Master's platform in Auberdine. (36.7,46.6)| |Z|Darkshore|
 
 R Ashenvale
 T Riversong the Elder |N|In the gazebo near the Hippogryph Master .(35.4,48.9)| |Z|Ashenvale|
@@ -152,37 +152,41 @@ T Mistwalker the Elder |N|Inside the Dire Maul arena, outside the instance. (62,
 T Grimtotem the Elder |N|Lariss Pavilion, northeast of Camp Mojache. (76.7,37.7)| |Z|Feralas|
 
 H Dalaran
-R The Storm Peaks
-T Fargal the Elder |N|Frosthold. (28.9,73.7)| |Z|The Storm Peaks|
-T Graymane the Elder |N|K3. (41.2,84.7)| |Z|The Storm Peaks|
-T Stonebeard the Elder |N|Bouldercrag's Refuge. (31.3,37.6)| |Z|The Storm Peaks|
-T Muraco the Elder |N|Camp Tunka'lo. (64.6,51.3)| |Z|The Storm Peaks|
+F The Storm Peaks |N|Fly to K3.|
+T Graymane the Elder |N|In K3. (41.2,84.7)| |Z|The Storm Peaks|
+T Fargal the Elder |N|In Frosthold overlooking the city. (28.9,73.7)| |Z|The Storm Peaks|
+T Stonebeard the Elder |N|In Bouldercrag's Refuge. (31.3,37.6)| |Z|The Storm Peaks|
 
-R Zul'Drak
-T Tauros the Elder |N|Zim'Torga. (58.9,56)| |Z|Zul'Drak|
+F Dun Niffelem
+T Muraco the Elder |N|Near Camp Taunka'lo. (64.6,51.3)| |Z|The Storm Peaks|
 
-R Grizzly Hills
-T Lunaro the Elder |N|In the Ruins of Tethys. (80.5,37.6)| |Z|Grizzly Hills|
+F Zul'Drak |N|Fly to Zim'Torga.|
+T Tauros the Elder |N|In Zim'Torga. (58.9,56)| |Z|Zul'Drak|
+
+F Grizzly Hills |N|Fly to the Westfall Brigade Encampment from Zim'Torga. (59.9,56.9)| |Z|Grizzly Hills|
 T Beldak the Elder |N|Westfall Brigade Encampment. (60.6,27.7)| |Z|Grizzly Hills|
-T Whurain the Elder |N|Camp Oneqwah .(64.2,47)| |Z|Grizzly Hills|
+T Whurain the Elder |N|Camp Oneqwah. (64.2,47)| |Z|Grizzly Hills|
+T Lunaro the Elder |N|In the Ruins of Tethys. (80.5,37.6)| |Z|Grizzly Hills|
 
-R Dragonblight
-T Thoim the Elder |N|Moa'ki Harbor. (48.8,78.2)| |Z|Dragonblight|
-T Skywarden the Elder |N|Agmar's Hammer. (35.1,48.3)| |Z|Dragonblight|
-T Morthie the Elder |N|Star's Rest. (29.7,55.9)| |Z|Dragonblight|
+F Dragonblight |N|Fly to either Moa'ki Harbour or Wyrmrest Temple from Westfall Brigade Encampment. (64.96,46.92)| |Z|Grizzly Hills|
+T Thoim the Elder |N|In Moa'ki Harbor. (48.8,78.2)| |Z|Dragonblight|
 
-R Borean Tundra
+F Star's Rest
+T Morthie the Elder |N|In Star's Rest. (29.7,55.9)| |Z|Dragonblight|
+T Skywarden the Elder |N|In Agmar's Hammer. (35.1,48.3)| |Z|Dragonblight|
+
+F Borean Tundra |N|Fly to Taunka'le Village from Agmar's Hammer. (37.52,45.75)| |Z|Dragonblight|
 T Arp the Elder |N|In the D.E.H.T.A. camp. (57.3,43.7)| |Z|Borean Tundra|
-T Sardis the Elder |N|Valiance Keep. (59.1,65.6)| |Z|Borean Tundra|
-T Pamuya the Elder |N|Warsong Hold. (42.9,49.6)| |Z|Borean Tundra|
-T Northal the Elder |N|Under the Transistus Shield. (33.8,34.4)| |Z|Borean Tundra|
+T Sardis the Elder |N|Outside Valiance Keep. (59.1,65.6)| |Z|Borean Tundra|
+T Pamuya the Elder |N|In Warsong Hold. (42.9,49.6)| |Z|Borean Tundra|
+T Northal the Elder |N|In Transistus Shield. (33.8,34.4)| |Z|Borean Tundra|
 
-R Sholazar Basin
-T Sandrene the Elder |N|Lakeside Landing. (49.8,63)| |Z|Sholazar Basin|
-T Wanikaya the Elder |N|Rainspeaker Rapids. (63.8,49)| |Z|Sholazar Basin|
+F Sholazar Basin |N|Fly to River's Heart from the Transistus Shield. (33.11,34.47)| |Z|Borean Tundra|
+T Sandrene the Elder |N|In Lakeside Landing. (49.8,63)| |Z|Sholazar Basin|
+T Wanikaya the Elder |N|In Rainspeaker Rapids. (63.8,49)| |Z|Sholazar Basin|
 
 R Wintergrasp
-T Bluewolf the Elder |N|Your faction needs to control Lake Wintergrasp in order to visit Elder Bluewolf. (49,14)| |Z|Wintergrasp|
+T Bluewolf the Elder |N|Inside the fortress. Your faction may need to control Lake Wintergrasp in order to visit Elder Bluewolf. (49,14)| |Z|Wintergrasp|
 
 R The Nexus
 T Igasho the Elder |N|Before Omorokk the Tree-Shaper.|
@@ -203,6 +207,6 @@ R Utgarde Pinnacle
 T Chogan'gada the Elder |N|Under the stairs after Skadi the Ruthless.|
 
 R Gundrak
-T Ohanzee the Elder |N|Only appears in Heroic Mode. You will need to defeat Moorabi along the way.|
+T Ohanzee the Elder |N|Near the Drakkari Colossus.|
 
 ]] end)

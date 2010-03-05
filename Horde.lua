@@ -30,13 +30,13 @@ T Brightspear the Elder |N|Southeastern edge of Lake Kel'Theril. (55.3,43.8)| |Z
 F Felwood |N|Fly to Bloodvenom Post.|
 T Nightwind the Elder |N|North of Jaedenar. (37.7,52.9)| |Z|Felwood|
 
-R Ashenvale |N|Fly to Emerald Sanctuary to save some time, if you like.|
+F Ashenvale |N|Fly to Splinter Tree Post.|
 T Riversong the Elder |N|In the gazebo near the Hippogryph Master. (35.4,48.9)| |Z|Ashenvale|
 
 R Darkshore
-T Starweave the Elder |N|Near the Hippogryph Master in Auberdine. (36.7,46.6)| |Z|Darkshore|
+T Starweave the Elder |N|On a hill near the Hippogryph Master's platform in Auberdine. (36.7,46.6)| |Z|Darkshore|
 
-b Darnassus
+b Darnassus |N|Take the boat on the right. (33.17, 40.19)|
 T Bladeswift the Elder |N|Center of the Cenarion Enclave. (33.6,15.1)| |Z|Darnassus|
 T Bladeleaf the Elder |N|Southern edge of Dolanaar. (57.2,60.7)| |Z|Teldrassil|
 
@@ -47,14 +47,16 @@ R Durotar
 T Runetotem the Elder |N|South-east edge of Razor Hill. (53.1,43.5)| |Z|Durotar|
 
 R The Barrens
-T Windtotem the Elder |N|In Ratchet, outside of the Engineering building north of the bank. (62.6,36.7)| |Z|The Barrens|
 T Moonwarden the Elder |N|Next to the flight master in the Crossroads. (51.4,30.6)| |Z|The Barrens|
 
+F Ratchet
+T Windtotem the Elder |N|In Ratchet, outside of the Engineering building north of the bank. (62.6,36.7)| |Z|The Barrens|
+
 F Desolace
-R Maraudon |N|Enter via the Purple Gate to save time if you can.|
+R Maraudon |N|Enter via the Portal to save time if you are over level 30.|
 T Splitrock the Elder |N|Jump into the water by the Princess and Rotgrip. Swim to the east and head up the ramp. Turn right and head up a 2nd ramp. The Elder will be in front of you.|
 
-R Thunder Bluff |N|Hearth to Dalaran, use the portal|
+R Thunder Bluff |N|Hearth to Dalaran, use the portal.|
 T Wheathoof the Elder |N|Elder Rise (72.2,23.5). In memoriam, Ezra Chatterton (1998-2008).| |Z|Thunder Bluff|
 
 R Mulgore
@@ -75,7 +77,7 @@ R Tanaris
 T Dreamseer the Elder |N|In Gadgetzan. (51.3,27.8)| |Z|Tanaris|
 
 R Zul'Farrak
-T Wildmane the Elder |N|At the south-east corner of the room with Gahz'rilla's gong.|
+T Wildmane the Elder |N|South-east corner of the room with Gahz'rilla's gong.|
 
 R Tanaris
 T Ragetotem the Elder |N|Valley of the Watchers, west side. (36.2,80.4)| |Z|Tanaris|
@@ -84,17 +86,17 @@ R Un'Goro Crater
 T Thunderhorn the Elder |N|North of the Slithering Scar. (50.1,76.1)| |Z|Un'Goro Crater|
 
 R Silithus
-T Bladesing the Elder |N|Standing in the Moonwell at Cenarion Hold. (48.8,37.6)| |Z|Silithus|
+T Bladesing the Elder |N|Standing in the Moon Well, Cenarion Hold. (48.8,37.6)| |Z|Silithus|
 T Primestone the Elder |N|Center of the Crystal Vale. (22.9,11.6)| |Z|Silithus|
 
-R Undercity |N|Hearth to Dalaran, take the portal|
+R Undercity |N|Hearth to Dalaran, take the portal.|
 T Darkcore the Elder |N|In the middle of Undercity, above ground. (67.4,39.1)| |Z|Undercity|
 
 F Eastern Plaguelands
 T Snowcrown the Elder |N|Light's Hope Chapel. (75.7,54.6)| |Z|Eastern Plaguelands|
 
-R Stratholme
-T Farwhisper the Elder |N|North of the Festival Lane mailbox (near The Unforgiven). Enter through the back door. Make your first left in the instance, go through the gate, turn right, and the Elder will be standing at the back.|
+R Stratholme |N|Enter through the back door.|
+T Farwhisper the Elder |N|North of the Festival Lane mailbox (near The Unforgiven). Make your first left in the instance, go through the gate, turn right, and the Elder will be standing at the back.|
 
 R Eastern Plaguelands
 T Windrun the Elder |N|Crown Guard Tower, north of Darrowshire. (35.6,68.8)| |Z|Eastern Plaguelands|
@@ -114,7 +116,7 @@ T Highpeak the Elder |N|Near the Creeping Ruin. (49.9,47.9)| |Z|The Hinterlands|
 
 F Badlands
 R Loch Modan
-T Silvervein the Elder |N|(33,46.3)| |Z|Loch Modan|
+T Silvervein the Elder |N|Next to Thelsamar graveyard. (33,46.3)| |Z|Loch Modan|
 
 R Dun Morogh
 T Goldwell the Elder |N|Near the Kharanos inn. (46.7,51.4)| |Z|Dun Morogh|
@@ -133,6 +135,9 @@ T Skychaser the Elder |N|On top of the tower, north-east of Sentinel Hill. (56.6
 
 R Stranglethorn Vale
 T Starglade the Elder |N|Near Zul'Gurub, in the right "courtyard" in front of the steps up to instance entrance. (53.1,18.3)| |Z|Stranglethorn Vale|
+
+R Grom'Gol Base Camp
+F Booty Bay
 T Winterhoof the Elder |N|Near Horde flight master on top of the bank in Booty Bay. (26.3,76.4)| |Z|Stranglethorn Vale|
 
 F Swamp of Sorrows
@@ -156,37 +161,41 @@ R Blackrock Depths
 T Morndeep the Elder |N|Inside the Ring of Law.|
 
 H Dalaran
-R The Storm Peaks
-T Fargal the Elder |N|Frosthold. (28.9,73.7)| |Z|The Storm Peaks|
-T Graymane the Elder |N|K3. (41.2,84.7)| |Z|The Storm Peaks|
-T Stonebeard the Elder |N|Bouldercrag's Refuge. (31.3,37.6)| |Z|The Storm Peaks|
-T Muraco the Elder |N|Camp Tunka'lo. (64.6,51.3)| |Z|The Storm Peaks|
+F The Storm Peaks |N|Fly to K3.|
+T Graymane the Elder |N|In K3. (41.2,84.7)| |Z|The Storm Peaks|
+T Fargal the Elder |N|In Frosthold overlooking the city. (28.9,73.7)| |Z|The Storm Peaks|
+T Stonebeard the Elder |N|In Bouldercrag's Refuge. (31.3,37.6)| |Z|The Storm Peaks|
 
-R Zul'Drak
-T Tauros the Elder |N|Zim'Torga. (58.9,56)| |Z|Zul'Drak|
+F Camp Taunka'lo.
+T Muraco the Elder |N|Near Camp Taunka'lo. (64.6,51.3)| |Z|The Storm Peaks|
 
-R Grizzly Hills
+F Zul'Drak |N|Fly to Zim'Torga.|
+T Tauros the Elder |N|In Zim'Torga. (58.9,56)| |Z|Zul'Drak|
+
+F Grizzly Hills |N|Fly to Camp Oneqwah from Zim'Torga. (59.9,56.9)| |Z|Grizzly Hills|
+T Whurain the Elder |N|Camp Oneqwah. (64.2,47)| |Z|Grizzly Hills|
+T Beldak the Elder |N|Westfall Brigade Encampment. (60.6,27.7)| |Z|Grizzly Hills|
 T Lunaro the Elder |N|In the Ruins of Tethys. (80.5,37.6)| |Z|Grizzly Hills|
-T Beldak the Elder |N|Westfall Brigade Encampment (60.6,27.7)| |Z|Grizzly Hills|
-T Whurain the Elder |N|Camp Oneqwah (64.2,47)| |Z|Grizzly Hills|
 
-R Dragonblight
-T Thoim the Elder |N|Moa'ki Harbor. (48.8,78.2)| |Z|Dragonblight|
-T Skywarden the Elder |N|Agmar's Hammer. (35.1,48.3)| |Z|Dragonblight|
-T Morthie the Elder |N|Star's Rest. (29.7,55.9)| |Z|Dragonblight|
+F Dragonblight |N|Fly to either Moa'ki Harbour or Wyrmrest Temple from Camp Oneqwah. (64.96,46.92)| |Z|Grizzly Hills|
+T Thoim the Elder |N|In Moa'ki Harbor. (48.8,78.2)| |Z|Dragonblight|
 
-R Borean Tundra
+F Agmar's Hammer
+T Skywarden the Elder |N|In Agmar's Hammer. (35.1,48.3)| |Z|Dragonblight|
+T Morthie the Elder |N|In Star's Rest. (29.7,55.9)| |Z|Dragonblight|
+
+F Borean Tundra |N|Fly to Taunka'le Village from Agmar's Hammer. (37.52,45.75)| |Z|Dragonblight|
 T Arp the Elder |N|In the D.E.H.T.A. camp. (57.3,43.7)| |Z|Borean Tundra|
-T Sardis the Elder |N|Valiance Keep. (59.1,65.6)| |Z|Borean Tundra|
-T Pamuya the Elder |N|Warsong Hold. (42.9,49.6)| |Z|Borean Tundra|
-T Northal the Elder |N|Under the Transistus Shield. (33.8,34.4)| |Z|Borean Tundra|
+T Sardis the Elder |N|Outside Valiance Keep. (59.1,65.6)| |Z|Borean Tundra|
+T Pamuya the Elder |N|In Warsong Hold. (42.9,49.6)| |Z|Borean Tundra|
+T Northal the Elder |N|In Transistus Shield. (33.8,34.4)| |Z|Borean Tundra|
 
-R Sholazar Basin
-T Sandrene the Elder |N|Lakeside Landing. (49.8,63)| |Z|Sholazar Basin|
-T Wanikaya the Elder |N|Rainspeaker Rapids. (63.8,49)| |Z|Sholazar Basin|
+F Sholazar Basin |N|Fly to River's Heart from the Transistus Shield. (33.11,34.47)| |Z|Borean Tundra|
+T Sandrene the Elder |N|In Lakeside Landing. (49.8,63)| |Z|Sholazar Basin|
+T Wanikaya the Elder |N|In Rainspeaker Rapids. (63.8,49)| |Z|Sholazar Basin|
 
 R Wintergrasp
-T Bluewolf the Elder |N|Your faction needs to control Lake Wintergrasp in order to visit Elder Bluewolf. (49,14)| |Z|Wintergrasp|
+T Bluewolf the Elder |N|Inside the fortress. Your faction may need to control Lake Wintergrasp in order to visit Elder Bluewolf. (49,14)| |Z|Wintergrasp|
 
 R The Nexus
 T Igasho the Elder |N|Before Omorokk the Tree-Shaper.|
@@ -207,6 +216,6 @@ R Utgarde Pinnacle
 T Chogan'gada the Elder |N|Under the stairs after Skadi the Ruthless.|
 
 R Gundrak
-T Ohanzee the Elder |N|Only appears in Heroic Mode. You will need to defeat Moorabi along the way.|
+T Ohanzee the Elder |N|Near the Drakkari Colossus.|
 
 ]] end)
