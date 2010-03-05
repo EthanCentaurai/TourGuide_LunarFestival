@@ -1,3 +1,6 @@
+Version 1.0.2
+- More guide cleanup and optimisation, thanks to Yewbacca and darkiz0r for the information!
+
 Version 1.0.1
 - Updated locations of elders inside Northrend dungeons. Thanks Branur!
 - Added a note about summoning and defeating Omen.
