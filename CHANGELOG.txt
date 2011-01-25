@@ -1,3 +1,6 @@
+Version 1.1.0
+- All guides updated for new Cataclysm zones and areas.
+
 Version 1.0.2
 - More guide cleanup and optimisation, thanks to Yewbacca and darkiz0r for the information!
 
