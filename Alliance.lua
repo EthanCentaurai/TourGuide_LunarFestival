@@ -45,7 +45,7 @@ T Starsong the Elder |N|At the end of a dead-end corridor inside the instance, t
 F Northern Stranglethorn |N|Fly to Rebel Camp.|
 T Starglade the Elder |N|Near Zul'Gurub, in the right "courtyard" in front of the steps up to instance entrance. (71,34.2)| |Z|Northern Stranglethorn|
 
-R The Cape of Stranglethorn
+R The Cape of Stranglethorn |N|Fly to Booty Bay.|
 T Winterhoof the Elder |N|On top of the bank in Booty Bay. (40,72.5)| |Z|The Cape of Stranglethorn|
 
 b Ratchet
@@ -121,7 +121,7 @@ R Silverpine Forest
 T Obsidian the Elder |N|Inside the Sepulcher. (44.9,41.1)| |Z|Silverpine Forest|
 
 R Undercity
-T Darkcore the Elder |N|In the middle of Undercity, above ground. (67.4,39.1)| |Z|Undercity|
+T Darkcore the Elder |N|In the middle of the throne room inside Undercity, top floor. (67.4,39.1)| |Z|Undercity|
 
 R Moonglade |N|Stand in the big beam of light in the middle of the Throne Room and use your Lunar Invitation, or use your Teleport spell if you are a Druid.| |U|21711|
 T Valadar Starsong |N|(54,35)| |QID|8883| |Z|Moonglade|
