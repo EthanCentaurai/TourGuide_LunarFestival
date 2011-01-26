@@ -1,5 +1,5 @@
 
-TourGuide:RegisterGuide("The Lunar Festival (80-85)", nil, "Alliance", function() return [[
+TourGuide:RegisterGuide("The Lunar Festival (77-85)", nil, "Alliance", function() return [[
 
 h Stormwind City |N|Trust me, you'll be coming back. A lot.|
 R City of Ironforge |N|Use the tram.|
@@ -95,10 +95,10 @@ T Splitrock the Elder |N|Jump into the water by the Princess and Rotgrip. Swim t
 
 R City of Ironforge |N|Hearth to Stormwind, use the tram.|
 R Dun Morogh
-T Goldwell the Elder |N|Near the Kharanos inn. (46.7,51.4)| |Z|Dun Morogh|
+T Goldwell the Elder |N|Near the Kharanos inn. (53.9,49.9)| |Z|Dun Morogh|
 
 R Loch Modan
-T Silvervein the Elder |N|Next to Thelsamar graveyard. (53.9,49.9)| |Z|Loch Modan|
+T Silvervein the Elder |N|Next to Thelsamar graveyard. (33.3,46.6)| |Z|Loch Modan|
 
 F The Hinterlands
 T Highpeak the Elder |N|Near the Creeping Ruin. (50,48)| |Z|The Hinterlands|

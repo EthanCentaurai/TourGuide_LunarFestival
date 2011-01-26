@@ -1,5 +1,5 @@
 
-TourGuide:RegisterGuide("The Lunar Festival (80-85)", nil, "Horde", function() return [[
+TourGuide:RegisterGuide("The Lunar Festival (77-85)", nil, "Horde", function() return [[
 
 h Orgrimmar |N|Trust me, you'll be coming back. A lot.|
 
@@ -108,11 +108,11 @@ T Snowcrown the Elder |N|Light's Hope Chapel. (75.7,54.5)| |Z|Eastern Plagueland
 R Stratholme |N|Enter via the Main Entrance.|
 T Farwhisper the Elder |N|North of the Festival Lane mailbox (near The Unforgiven), past the "rat trap". Follow the sign-posts if you get lost.|
 
-R Loch Modan |N|Fly via the Badlands.|
-T Silvervein the Elder |N|Next to Thelsamar graveyard. (33,46.3)| |Z|Loch Modan|
+R Loch Modan
+T Silvervein the Elder |N|Next to Thelsamar graveyard. (33.3,46.6)| |Z|Loch Modan|
 
 R Dun Morogh
-T Goldwell the Elder |N|Near the Kharanos inn. (46.7,51.4)| |Z|Dun Morogh|
+T Goldwell the Elder |N|Near the Kharanos inn. (53.9,49.9)| |Z|Dun Morogh|
 
 R City of Ironforge
 T Bronzebeard the Elder |N|In the pond in the Mystic Ward. (29.2,17) |Z|Ironforge|
