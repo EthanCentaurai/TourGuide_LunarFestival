@@ -1,3 +1,6 @@
+Version 1.1.1
+- Fixed the locations of the Elders in Loch Modan and Dun Morogh.
+
 Version 1.1.0
 - All guides updated for new Cataclysm zones and areas.
 
