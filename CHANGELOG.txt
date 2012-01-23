@@ -1,3 +1,7 @@
+Version 1.2.0
+- Updated for WoW 4.3.0.
+- Many thanks to p3lim for his contribution!
+
 Version 1.1.1
 - Fixed the locations of the Elders in Loch Modan and Dun Morogh.
 
