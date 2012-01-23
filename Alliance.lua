@@ -181,7 +181,7 @@ T Wanikaya the Elder |N|In Rainspeaker Rapids. (63.8,49)| |Z|Sholazar Basin|
 R Wintergrasp
 T Bluewolf the Elder |N|Inside the fortress. You can only get in if your faction controls Wintergrasp or if the fortress door has been destroyed. (49,14)| |Z|Wintergrasp|
 
-F Dragonblight |N|Fly to Star's Rest.|
+F Dragonblight
 T Morthie the Elder |N|In Star's Rest. (29.7,55.9)| |Z|Dragonblight|
 
 R Azjol-Nerub
@@ -191,7 +191,7 @@ F Dragonblight
 T Skywarden the Elder |N|In Agmar's Hammer. (35.1,48.3)| |Z|Dragonblight|
 T Thoim the Elder |N|In Moa'ki Harbor. (48.8,78.2)| |Z|Dragonblight|
 
-F Grizzly Hills |N|Fly to the Westfall Brigade Encampment|
+F Grizzly Hills
 T Beldak the Elder |N|Westfall Brigade Encampment. (60.6,27.7)| |Z|Grizzly Hills|
 T Whurain the Elder |N|Camp Oneqwah. (64.2,47)| |Z|Grizzly Hills|
 T Lunaro the Elder |N|In the Ruins of Tethys. (80.5,37.6)| |Z|Grizzly Hills|
@@ -199,7 +199,7 @@ T Lunaro the Elder |N|In the Ruins of Tethys. (80.5,37.6)| |Z|Grizzly Hills|
 R Gundrak
 T Ohanzee the Elder |N|Near the Drakkari Colossus.|
 
-F Zul'Drak |N|Fly to Zim'Torga.|
+F Zul'Drak
 T Tauros the Elder |N|In Zim'Torga. (58.9,56)| |Z|Zul'Drak|
 
 R Drak'Tharon Keep
