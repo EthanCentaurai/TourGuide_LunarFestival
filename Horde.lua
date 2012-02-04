@@ -110,10 +110,10 @@ T Obsidian the Elder |N|Inside the Sepulcher. (44.9,41.1)| |Z|Silverpine Forest|
 F The Hinterlands |QID|8643|
 T Highpeak the Elder |N|Near the Creeping Ruin. (50,48)| |Z|The Hinterlands| |QID|8643|
 
-F Western Plaguelands |QID|8722|
-T Meadowrun the Elder |N|Inside the Weeping Cave. (63.5,36.1)| |Z|Western Plaguelands| |QID|8722|
 F Western Plaguelands |QID|8714|
 T Moonstrike the Elder |N|On top of the Scholomance Tower, outside of the instance. (69.2,73.4)| |Z|Western Plaguelands| |QID|8714|
+F Western Plaguelands |QID|8722|
+T Meadowrun the Elder |N|Inside the Weeping Cave. (63.5,36.1)| |Z|Western Plaguelands| |QID|8722|
 
 F Eastern Plaguelands |QID|8688|
 T Windrun the Elder |N|Inside the Crown Guard Tower, north of Darrowshire. (35.5,68.8)| |Z|Eastern Plaguelands| |QID|8688|
