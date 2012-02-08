@@ -19,7 +19,7 @@ T Valadar Starsong |N|(54,35)| |QID|8883| |Z|Moonglade|
 
 F Winterspring  |QID|8672|
 T Stonespire the Elder |N|In the center of Everlook. (59.9,49.9)| |Z|Winterspring| |QID|8672|
-F Winterspring  |QID|8672|
+F Winterspring  |QID|8676|
 T Brightspear the Elder |N|In the ruins of Kel'Theril. (53.2,56.7)| |Z|Winterspring| |QID|8726|
 
 F Azshara |QID|8720|
@@ -165,8 +165,8 @@ T Rumblerock the Elder |N|On top of Dreadmaul Rock, north of Morgan's Vigil. (70
 F Searing Gorge |QID|8651|
 T Ironband the Elder |N|Southwest corner in Blackchar Cave. (21.3,79)| |Z|Searing Gorge| |QID|8651|
 
-F Blackrock Depths |QID|8619||
-T Morndeep the Elder |N|In the center of the Ring of Law. (50.5,62.9) |QID|8619||
+F Blackrock Depths |QID|8619|
+T Morndeep the Elder |N|In the center of the Ring of Law. (50.5,62.9) |QID|8619|
 
 F Blackrock Spire |QID|8644|
 T Stonefort the Elder |N|On a cliff edge past the first of the rope bridges in Lower Blackrock Spire. (61.8,40)| |QID|8644|
