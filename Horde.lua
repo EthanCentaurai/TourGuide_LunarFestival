@@ -125,6 +125,7 @@ T Farwhisper the Elder |N|North of the Festival Lane mailbox (near The Unforgive
 
 F Twilight Highlands |QID|29736|
 T Darkfeather the Elder |N|In the Thundermar Ruins. (51.8,33.1)| |Z|Twilight Highlands| |QID|29736|
+F Twilight Highlands |QID|29737|
 T Firebeard the Elder |N|In the Dunwald Ruins. (50.9,70.4)| |Z|Twilight Highlands| |QID|29737|
 
 F Loch Modan |QID|8642|
@@ -138,6 +139,7 @@ T Bronzebeard the Elder |N|In the pond in the Mystic Ward. (29.2,17) |Z|Ironforg
 
 F Elwynn Forest |QID|8646|
 T Hammershout the Elder |N|Outside Stormwind City, near the gates. (34.5,50.2)| |Z|Elwynn Forest| |QID|8646|
+F Elwynn Forest |QID|8649|
 T Stormbrow the Elder |N|Near the pond. (39.7,63.6)| |Z|Elwynn Forest| |QID|8649|
 
 F Westfall |QID|8675|
@@ -239,7 +241,7 @@ T Chogan'gada the Elder |N|Under the stairs after Skadi the Ruthless.| |QID|1306
 H Orgrimmar |N|Or use the portal in Dalaran if you prefer.| |QID|29735|
 F Deepholm |N|Use the portal at the Earthshrine.| |QID|29735|
 T Stonebrand the Elder |N|Inside the Temple of Earth. (49.7,54.9)| |Z|Deepholm| |QID|29735|
-F Deepholm  |QID|29734|
+F Deepholm |N|Use the portal at the Earthshrine.| |QID|29734|
 T Deepforge the Elder |N|In Stonehearth. (27.7,69.2)| |Z|Deepholm| |QID|29734|
 
 H Orgrimmar |N|Use the portal in the Temple of Earth if your Hearthstone is on cooldown.| |QID|29738|
