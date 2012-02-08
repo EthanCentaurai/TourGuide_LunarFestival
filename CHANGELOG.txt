@@ -1,3 +1,8 @@
+Version 1.2.1
+- Fixed the position of Elder Dawnstrider post-hotfix.
+- Other slight tweaks and improvements to the guides.
+- Thanks to mutantbob for his contributions.
+
 Version 1.2.0
 - Updated for WoW 4.3.0.
 - Many thanks to p3lim for his contribution!
