@@ -156,7 +156,7 @@ F The Temple of Atal'Hakkar |N|Fly to the Swamp of Sorrows.| |QID|8713|
 T Starsong the Elder |N|Inside the dungeon, at the end of a short corridor to the left.| |QID|8713|
 
 F Burning Steppes |QID|8683|
-T Dawnstrider the Elder |N|Near Flame Crest. (53.5,24.6)| |Z|Burning Steppes| |QID|8683|
+T Dawnstrider the Elder |N|Near Flame Crest. (52.4,23,9)| |Z|Burning Steppes| |QID|8683|
 F Burning Steppes |QID|8636|
 T Rumblerock the Elder |N|On top of Dreadmaul Rock, north of Morgan's Vigil. (70.1,45.4)| |Z|Burning Steppes| |QID|8636|
 

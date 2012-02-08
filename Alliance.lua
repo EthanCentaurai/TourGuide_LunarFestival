@@ -21,7 +21,7 @@ F Searing Gorge
 T Ironband the Elder |N|Southwest corner in Blackchar Cave. (21.3,79)| |Z|Searing Gorge|
 
 F Burning Steppes
-T Dawnstrider the Elder |N|Near Flame Crest. Beware of the Horde's guards. (53.5,24.6)| |Z|Burning Steppes|
+T Dawnstrider the Elder |N|Near Flame Crest. (52.4,23,9)| |Z|Burning Steppes|
 T Rumblerock the Elder |N|On top of Dreadmaul Rock, north of Morgan's Vigil. (70.1,45.4)| |Z|Burning Steppes|
 
 F Blackrock Depths
